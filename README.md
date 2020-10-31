@@ -125,7 +125,24 @@
 - #### 3.1.14 敏感信息泄漏
 - #### 3.1.15 弱口令
   
-#### 3.2 通用组件漏洞
+### 3.2 通用组件漏洞
+- #### web应用
+  - thinkphp
+  - 通达OA
+  - coremail
+  
+- #### 中间件
+  - jboss
+  - zabbix
+  - redis
+  - fastjson
+  - nexus
+  - shiro
+  - solr
+  - spring
+  - struts2
+  - tomcat
+  - weblogic
 
 ## 4.漏洞利用
 ## 5.内网渗透
