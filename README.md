@@ -143,6 +143,7 @@
   - struts2
   - tomcat
   - weblogic
+  - phpmyadmin
 
 ## 4.漏洞利用
 ### 4.1 常规web漏洞
